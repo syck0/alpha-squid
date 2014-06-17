@@ -1,3 +1,4 @@
 alpha-squid
 ===========
-I am not yet sure what this does but the second I do, you will too!!
+
+Authentication of remote logins using keystroke dynamics to maintain sessions.
